@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31512.422
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulation", "src\StringManipulation\StringManipulation.csproj", "{8307E3CC-FDE6-4FBE-94B2-CF555787F607}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesVsRecords", "src\ClassesVsRecords\ClassesVsRecords.csproj", "{11DAF748-B34A-406B-BFEF-42F5BFC2D3A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesVsRecords", "src\ClassesVsRecords\ClassesVsRecords.csproj", "{11DAF748-B34A-406B-BFEF-42F5BFC2D3A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParalellOperations", "src\ParalellOperations\ParalellOperations.csproj", "{209E75FE-FC32-45BD-B687-7CF8BC667034}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{11DAF748-B34A-406B-BFEF-42F5BFC2D3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11DAF748-B34A-406B-BFEF-42F5BFC2D3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11DAF748-B34A-406B-BFEF-42F5BFC2D3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209E75FE-FC32-45BD-B687-7CF8BC667034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209E75FE-FC32-45BD-B687-7CF8BC667034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209E75FE-FC32-45BD-B687-7CF8BC667034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209E75FE-FC32-45BD-B687-7CF8BC667034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
